@@ -1,7 +1,7 @@
 # SmartBin_MultimodalModel
 Colaboration between Computer Vision and Audio Processing to robust accuracy and reduce computational cost
 
-:point_right::point_right::point_right:
+:owl::owl::owl:
 # Step by Step 
 ## 1. Install enviroment Python
 * Create env python by Conda

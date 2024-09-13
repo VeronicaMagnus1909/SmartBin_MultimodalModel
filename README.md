@@ -15,7 +15,7 @@ pip install -r requirements.txt
 ```
 
 ## 2. Run code
-**Fast and Efficient** **Step 1**: Model Audio
+[Fast and Efficient] **Step 1**: Model Audio
 
 
 🤘 **Step 2**: Model CV

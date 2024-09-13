@@ -23,4 +23,4 @@ pip install -r requirements.txt
 🤘 **Step 3**: Multimodal model`
 
 # Contact
-:boom: [Pham Doan Tinh](https://github.com/VeronicaMagnus1909) :boom:
+:boom: [Le Van Minh](https://github.com/VeronicaMagnus1909) :boom:

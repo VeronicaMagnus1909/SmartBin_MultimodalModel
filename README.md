@@ -15,7 +15,7 @@ pip install -r requirements.txt
 ```
 
 ## 2. Run code
-[Setup Instructions] **Step 1**: Model Audio
+::Setup Instructions:: **Step 1**: Model Audio
 
 
 🤘 **Step 2**: Model CV

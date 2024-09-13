@@ -1,7 +1,8 @@
 # SmartBin_MultimodalModel
 Colaboration between Computer Vision and Audio Processing to robust accuracy and reduce computational cost
 
-# Step by Step
+:point_right::point_right::point_right:
+# Step by Step 
 ## 1. Install enviroment Python
 * Create env python by Conda
 * Install Anaconda (or Miniconda) (follow below instructions)
@@ -18,9 +19,9 @@ pip install -r requirements.txt
 :point_right: **Step 1**: Model Audio
 
 
-🤘 **Step 2**: Model CV
+:point_right: **Step 2**: Model CV
 
-🤘 **Step 3**: Multimodal model`
+:point_right: **Step 3**: Multimodal model`
 
 # Contact
 :boom: [Le Van Minh](https://github.com/VeronicaMagnus1909) :boom:

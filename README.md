@@ -19,7 +19,7 @@ Colaboration between Computer Vision and Audio Processing to robust accuracy and
 
 :one: [Model Audio]()
 
-:two:  [Model CV]()
+:two:  [Model CV](https://drive.google.com/drive/folders/1tg3PDR9xUG2PMKWeNuNsIUanNNrwQyHm)
 
 
 

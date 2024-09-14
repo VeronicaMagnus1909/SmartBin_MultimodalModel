@@ -14,11 +14,12 @@ Colaboration between Computer Vision and Audio Processing to robust accuracy and
 
 ![image](https://github.com/user-attachments/assets/4e9e446f-cc67-4415-b523-fbc8af53f211)
 
+
 - **Data Source**: 
 
 :one: [Model Audio]()
 
-:two:  [Model CV]
+:two:  [Model CV]()
 
 
 

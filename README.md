@@ -10,9 +10,9 @@ Colaboration between Computer Vision and Audio Processing to robust accuracy and
 
 ![image](https://github.com/user-attachments/assets/df0be6fd-d502-47a3-9560-07dc9d3222ce)
 
-3️⃣ **Multimodal model***
+3️⃣ **Audio-Visual Model***
 
-![image](https://github.com/user-attachments/assets/4e9e446f-cc67-4415-b523-fbc8af53f211)
+
 
 
 - **Data Source**: 
